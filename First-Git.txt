@@ -1,5 +1,5 @@
 はじめてのgit
 フロー
 追加のコマンド
-
-
+git status
+git rm
