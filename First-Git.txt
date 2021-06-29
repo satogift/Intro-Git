@@ -3,3 +3,4 @@
 ’Ç‰Á‚ÌƒRƒ}ƒ“ƒh
 git status
 git rm
+diff
