@@ -1,6 +1,7 @@
-‚Í‚¶‚ß‚Ä‚Ìgit
-ƒtƒ[
-’Ç‰Á‚ÌƒRƒ}ƒ“ƒh
+ã¯ã˜ã‚ã¦ã®git
+ãƒ•ãƒ­ãƒ¼
+è¿½åŠ ã®ã‚³ãƒãƒ³ãƒ‰
 git status
 git rm
 diff
+\ Additional
